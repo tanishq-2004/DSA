@@ -19,6 +19,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishq-2004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/tanishq-2004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tanishq-2004/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
