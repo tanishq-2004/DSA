@@ -20,12 +20,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishq-2004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/tanishq-2004/DSA/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishq-2004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanishq-2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/tanishq-2004/DSA/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -48,5 +50,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/tanishq-2004/DSA/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
