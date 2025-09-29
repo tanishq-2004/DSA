@@ -14,6 +14,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/tanishq-2004/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanishq-2004/DSA/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/tanishq-2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
