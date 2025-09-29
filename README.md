@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tanishq-2004/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/tanishq-2004/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanishq-2004/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanishq-2004/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanishq-2004/DSA/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanishq-2004/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanishq-2004/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
 ## Counting
