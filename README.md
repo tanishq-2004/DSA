@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/tanishq-2004/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/tanishq-2004/DSA/tree/master/1297-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
@@ -63,8 +64,10 @@
 | [0242-valid-anagram](https://github.com/tanishq-2004/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/tanishq-2004/DSA/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/tanishq-2004/DSA/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
