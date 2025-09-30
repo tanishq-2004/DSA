@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/tanishq-2004/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tanishq-2004/DSA/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishq-2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishq-2004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanishq-2004/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanishq-2004/DSA/tree/master/0217-contains-duplicate) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanishq-2004/DSA/tree/master/0036-valid-sudoku) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishq-2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
