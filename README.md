@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/tanishq-2004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanishq-2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tanishq-2004/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +107,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanishq-2004/DSA/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tanishq-2004/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tanishq-2004/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tanishq-2004/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
