@@ -5,7 +5,6 @@ class Solution:
         curr_sum=0
         for r in range(k):
             curr_sum += nums[r]
-            r += 1
         max_avg = curr_sum/k  
 
         for r in range(k,n):
