@@ -10,6 +10,4 @@ class Solution:
                 max_profit = max(max_profit , profit)
             elif prices[r] < prices[l]:
                 l = r
-            else:
-                r += 1
         return max_profit
