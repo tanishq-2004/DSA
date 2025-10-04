@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanishq-2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tanishq-2004/DSA/tree/master/0125-valid-palindrome) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishq-2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tanishq-2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/tanishq-2004/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tanishq-2004/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanishq-2004/DSA/tree/master/0242-valid-anagram) |
@@ -113,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanishq-2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tanishq-2004/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishq-2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
