@@ -28,21 +28,3 @@ class Solution:
             suffix_product *= nums[i]
             
         return answer
-
-# --- Example Usage ---
-
-# 1. Instantiate the Solution class
-solver = Solution()
-
-# 2. Call the method on the instance
-nums = [1, 2, 3, 4]
-result = solver.productExceptSelf(nums)
-
-print(f"Input: {nums}")
-print(f"Output: {result}") # Expected: [24, 12, 8, 6]
-
-# Another example
-nums_with_zero = [-1, 1, 0, -3, 3]
-result_with_zero = solver.productExceptSelf(nums_with_zero)
-print(f"Input: {nums_with_zero}")
-print(f"Output: {result_with_zero}") # Expected: [0, 0, 9, 0, 0]
