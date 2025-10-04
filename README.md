@@ -30,6 +30,7 @@
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/tanishq-2004/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tanishq-2004/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tanishq-2004/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishq-2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tanishq-2004/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanishq-2004/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanishq-2004/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tanishq-2004/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
@@ -109,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanishq-2004/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishq-2004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
 |  |
