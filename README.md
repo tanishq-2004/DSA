@@ -24,6 +24,7 @@
 | [0242-valid-anagram](https://github.com/tanishq-2004/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanishq-2004/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/tanishq-2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tanishq-2004/DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishq-2004/DSA/tree/master/1297-maximum-number-of-balloons) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishq-2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/tanishq-2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tanishq-2004/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishq-2004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanishq-2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -96,6 +98,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tanishq-2004/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishq-2004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/tanishq-2004/DSA/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/tanishq-2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tanishq-2004/DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/tanishq-2004/DSA/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/tanishq-2004/DSA/tree/master/1297-maximum-number-of-balloons) |
