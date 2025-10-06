@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanishq-2004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanishq-2004/DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tanishq-2004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/tanishq-2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tanishq-2004/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tanishq-2004/DSA/tree/master/0141-linked-list-cycle) |
@@ -158,5 +159,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tanishq-2004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/tanishq-2004/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
